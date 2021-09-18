@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4246fa4a-1f3c-49c4-914b-475ca0bca85a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/springboot--mq/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot--mq/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="4246fa4a-1f3c-49c4-914b-475ca0bca85a" name="Default Changelist" comment="提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="920665cd-932f-4d9d-b3f4-9daedbdf067a" />
+        <option name="url" value="https://github.com/RTBSG/rabbitMQ-learning.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="1wIjL5FZcv4k9RqzKhNKUwt830s" />
   <component name="ProjectLevelVcsManager">
@@ -41,12 +49,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.10693877" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/springboot--mq/pom.xml" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.发布确认">
+  <component name="RunManager" selected="Spring Boot.SpringbootMqApplication">
     <configuration name="发布确认" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bsg.two.发布确认" />
       <module name="RabbitMq" />
@@ -60,17 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringbootMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot--mq" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.mq.SpringbootMqApplication" />
@@ -78,11 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.发布确认" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -95,14 +88,42 @@
       <workItem from="1628152940956" duration="836000" />
       <workItem from="1628519796732" duration="46000" />
       <workItem from="1631931311727" duration="96000" />
-      <workItem from="1631931427749" duration="9125000" />
+      <workItem from="1631931427749" duration="9823000" />
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1631951185166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631951185166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交">
+      <created>1631951236864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631951236864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
 </project>
