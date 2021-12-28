@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/springboot--mq/pom.xml" />
         <option value="$PROJECT_DIR$/../RabbitMq/pom.xml" />
+        <option value="$PROJECT_DIR$/../Rabbits/pom.xml" />
+        <option value="$PROJECT_DIR$/../RabbitMqSpringBoot/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
